@@ -1,0 +1,7 @@
+/* App-specific styles - kept minimal as design system is in index.css */
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
